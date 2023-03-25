@@ -1,3 +1,3 @@
 const array=[1,3,6,7];
-array.push(2);
+array.shift(7);
 console.log(array);
